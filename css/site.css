@@ -1,0 +1,46 @@
+﻿body
+{
+	background-color:#F3F9F5
+}
+
+.container
+{
+	background-color:white;
+}
+
+.header
+{
+	background-image:url('../images/bloem.jpg');
+	background-repeat:no-repeat;
+	background-color:rgb(60,120,5);
+}
+
+.headerTextbox
+{
+	height:300px;
+	color:#fff;
+	background-color:rgb(60,120,5);
+}
+
+#headerTextbox
+{
+	text-align:center;
+}
+
+.topnav
+{
+	background-color:rgba(60,120,5,0.7);
+}
+
+/*bootstrap overrides*/
+.nav-link, .nav-link:hover
+{
+	color:#fff;
+}
+
+/*debug*/
+/*.row
+{
+	border:solid;
+	border-color:#ddd;
+}*/
