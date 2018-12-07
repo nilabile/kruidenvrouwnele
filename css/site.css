@@ -1,11 +1,13 @@
 ﻿body
 {
-	background-color:#F3F9F5
+	background-color:white;
+	color:rgb(60,120,5);
 }
 
 .container
 {
-	background-color:white;
+
+	background-color:#F3F9F5;
 }
 
 .header
