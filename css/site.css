@@ -29,7 +29,19 @@
 #headerTextbox
 {
 	text-align:center;
+	width:100%;
 }
+
+#headerTextbox.XLarge
+{
+	font-size:x-large;
+}
+
+#headerTextbox.XXLarge
+{
+	font-size:xx-large;
+}
+
 
 .topnav
 {
